@@ -1,0 +1,45 @@
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\bin\Debug\ProyectoSof.exe.config
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\bin\Debug\ProyectoSof.exe
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\bin\Debug\ProyectoSof.pdb
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csprojAssemblyReference.cache
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Properties.Resources.resources
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csproj.GenerateResource.cache
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csproj.CoreCompileInputs.cache
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.exe
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.pdb
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Principal.resources
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Login.resources
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csproj.CopyComplete
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Principal1.resources
+D:\Proyectos de visual\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.AreaTrabajo.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\bin\Debug\ProyectoSof.exe.config
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\bin\Debug\ProyectoSof.exe
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\bin\Debug\ProyectoSof.pdb
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csprojAssemblyReference.cache
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.AreaTrabajo.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Login.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Principal1.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Properties.Resources.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csproj.GenerateResource.cache
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.csproj.CopyComplete
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.exe
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.pdb
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof\ProyectoSof\obj\Debug\ProyectoSof.Operaciones.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\bin\Debug\ProyectoSof.exe.config
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\bin\Debug\ProyectoSof.exe
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\bin\Debug\ProyectoSof.pdb
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.csprojAssemblyReference.cache
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.AreaTrabajo.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.Login.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.Operaciones.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.Principal1.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.Properties.Resources.resources
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.csproj.GenerateResource.cache
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.csproj.CopyComplete
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.exe
+C:\Users\User\Documents\PROYECTO SISTEMA DE ACCESO\SLNProyectoSof - copia\ProyectoSof\obj\Debug\ProyectoSof.pdb
